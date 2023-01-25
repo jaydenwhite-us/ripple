@@ -1,0 +1,13 @@
+# Title: Host the codebase in jaydenwhite-us
+
+## Status: Testing
+
+## Context:
+
+The goal is to get a product into use.
+
+## Decision:
+
+Host the codebase under jaydenwhite-us. After an appropriate shortened moniker is chosen, migrate the repo to the new location, being very selective which softwares are allowed to statically link to the repo until that date.
+
+## Consequences:
